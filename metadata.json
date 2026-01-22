@@ -1,0 +1,5 @@
+{
+  "name": "Öğrenci Temrin Takip Sistemi",
+  "description": "Öğrencilerin bilgilerini ve temrin notlarını takip eden, Firebase tabanlı ve grafiksel analiz sunan web uygulaması.",
+  "requestFramePermissions": []
+}
